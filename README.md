@@ -8,12 +8,12 @@ Give npm install
 
 Then run the project
 
-commands for installation 
+commands for installation :-
 
-npm install mongoose --save
+1)  npm install mongoose --save
 
-npm install express --save 
+2)  npm install express --save 
 
-npm install nodemon -- save-dev
+3)  npm install nodemon -- save-dev
 
 Thanks! Cheers ;)
